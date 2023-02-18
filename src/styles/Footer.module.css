@@ -1,0 +1,15 @@
+.footer {
+  align-items: center;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: center;
+}
+
+.titleFooter {
+  color: white;
+  font-size: 14px;
+  height: bolder;
+  margin-top: 20px;
+}
